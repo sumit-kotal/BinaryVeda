@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BinaryVeda</string>
+    <string name="text_signup">An endeavour to revolutionise showcase of art and artists in every way possible</string>
+    <string name="register">register      <font color="#000000">me as an artist</font></string>
+    <string name="portfolio_title">easy portfolio creation</string>
+    <string name="portfolio_content">As a member you get easy to operate native app for clicking, editing and uploading your artwork. We have made this absolutely easy for your to not struggle with elaborate camera set ups.</string>
+    <string name="advanced_title">advanced data and analytics</string>
+    <string name="advanced_content">As an artist we are losing out on lot of insights about our art. We will be using data aboutt your audience to give you insights on various aspects so that you can plan your career smartly.</string>
+    <string name="authentic_title">reach authentic audience</string>
+    <string name="authentic_content">Since this platform is built on specific needs of a buyer we will be introducing some cutting edge tech to help buyers decide faster and more prudently. We also will be making suure your artt is protected by blockchain tech so that it becomes impossible to be copied.</string>
+    <string name="menu_left">About Us.
+TGP team.
+Reach us.
+</string>
+    <string name="menu_right">Affiliattions.
+Disclaimers.
+Privacy Policy.
+</string>
+    <string name="copyright"> Content Copyright reserved with TGP.</string>
+    <string name="text_edit">Edit</string>
+    <string name="text_upload">Upload</string>
+    <string name="text_name">tanz.arts</string>
+    <string name="artist_title">Artist dashboard</string>
+</resources>
