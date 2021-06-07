@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
-import com.sumit.apps10x.R
+import com.sumit.binaryveda.R
 
 class SplashActivity : AppCompatActivity() {
     val SPLASH_DELAY: Long = 3000 //Time delay to remove splash screen
