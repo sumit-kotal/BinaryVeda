@@ -1,6 +1,6 @@
 # BinaryVeda
 
-Develop the following screens:
+<h1><b>Develop the following screens:</b></h1>
 
 ![alt text](https://github.com/sumit-kotal/BinaryVeda/blob/main/Screenshot_1625037682.jpeg) ![alt text](https://github.com/sumit-kotal/BinaryVeda/blob/main/Screenshot_1625037696.jpeg)
 ![alt text](https://github.com/sumit-kotal/BinaryVeda/blob/main/Screenshot_1625037704.jpeg) ![alt text](https://github.com/sumit-kotal/BinaryVeda/blob/main/Screenshot_1625037752.jpeg)
